@@ -1,0 +1,9 @@
+Tasks accomplished:
+1. Locate positions with certain keyowrds
+2. Find hottest positions
+3. Word cloud of Positions
+4. Read in resume in pdf format (tika)
+5. Matching 
+(a). Jaccard Similarity
+(b). Cosine Similarity
+...
