@@ -14,4 +14,4 @@ Compare verses and texts across 7 difference versions of English Bible
 Use wordcloud package to mine online courses data from Harvard and MIT
 
 #### Phone Numbers Validation (Nov, 2018)
-Verify valid phone numbers validation tool using NumVerify API
+Verify valid phone numbers using NumVerify API
