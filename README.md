@@ -4,6 +4,10 @@ Some light programs in Python or R to accomplish some small tasks
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liu431/Fun-Data-Projects/master)
 
+#### Discrepancies between the demand and supply of the job market skills
+Explore the fields of new grad's bachelor degrees and industrial index using the IPUMS.USA data
+
+
 #### Matching Resume with Data Science Jobs (Dec, 2018)
 Find fit positions with resume by calculating cosine similarity
 
