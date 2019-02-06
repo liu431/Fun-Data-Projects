@@ -10,6 +10,9 @@ Explore the fields of new grad's bachelor degrees and industrial index using the
 #### Evaluate different methods for market segmentation (Ongoing)
 Compare and test traditional methods and unsupervised learning methods (PCA, clustering...) on customers data
 
+#### Predicting the attending decision of offer holders
+EDA, Plotly mapping, data cleaning, feature engineering, and classification methods comparison
+
 #### Matching Resume with Data Science Jobs (Dec, 2018)
 Find fit positions with resume by calculating cosine similarity
 
