@@ -10,7 +10,10 @@ Explore the fields of new grad's bachelor degrees and industrial index using the
 #### Evaluate different methods for market segmentation (Ongoing)
 Compare and test traditional methods and unsupervised learning methods (PCA, clustering...) on customers data
 
-#### Predicting the attending decision of offer holders
+#### MLE approach to estimate distributions (Feb, 2019)
+Notebook for estimate the parameters of log normal and normal distributions to given data 
+
+#### Predicting the attending decision of offer holders (Jan, 2019)
 EDA, Plotly mapping, data cleaning, feature engineering, and classification methods comparison
 
 #### Matching Resume with Data Science Jobs (Dec, 2018)
