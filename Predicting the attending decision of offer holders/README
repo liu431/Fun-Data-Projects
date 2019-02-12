@@ -1,1 +1,5 @@
 
+1. Plotly mapping of U.S. states
+2. Data cleaning and imputation
+3. Feature engineering
+4. Classification methods comparison: "Logistic Regression","Random Forest","Support Vector Machine","K-Nearest Neighbors","Linear Discriminant Analysis"
