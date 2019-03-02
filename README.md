@@ -1,8 +1,12 @@
 ## Fun-Data-Projects
 Some light programs in Python to accomplish some small tasks
 
-
+Open option 1:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liu431/Fun-Data-Projects/master)
+
+Open option 2:
+https://nbviewer.jupyter.org/
+
 
 #### Discrepancies between the demand and supply of the job market skills (Ongoing)
 Explore the fields of new grad's bachelor degrees and industrial index using the IPUMS.USA data
