@@ -8,11 +8,9 @@ Open option 2:
 https://nbviewer.jupyter.org/
 
 
-#### Discrepancies between the demand and supply of the job market skills (Ongoing)
-Explore the fields of new grad's bachelor degrees and industrial index using the IPUMS.USA data
 
-#### Evaluate different methods for market segmentation (Ongoing)
-Compare and test traditional methods and unsupervised learning methods (PCA, clustering...) on customers data
+#### Nonresponse in ACS Citizenship Question: Characteristics of Respondents  (March 2019)
+Validated and analyzed the differences in income, education, family size, and employment from Census Bureau’s American Community Survey
 
 #### MLE approach to estimate distributions (Feb, 2019)
 Notebook for estimate the parameters of log normal and normal distributions to given data 
