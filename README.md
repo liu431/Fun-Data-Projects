@@ -12,6 +12,8 @@ https://nbviewer.jupyter.org/
 #### Nonresponse in ACS Citizenship Question: Characteristics of Respondents  (March 2019)
 Validated and analyzed the differences in income, education, family size, and employment from Census Bureau’s American Community Survey
 
+#### Call Volume Estimation (March, 2019)
+Estimate the number of minutes a user would spend on calls by comparing various ML models
 #### MLE approach to estimate distributions (Feb, 2019)
 Notebook for estimate the parameters of log normal and normal distributions to given data 
 
