@@ -1,5 +1,5 @@
 ## Fun-Data-Projects
-Some light programs in Python to accomplish some small tasks
+Some light projects in Python to accomplish some small tasks
 
 Open option 1:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liu431/Fun-Data-Projects/master)
