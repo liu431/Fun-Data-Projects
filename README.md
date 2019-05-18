@@ -8,6 +8,8 @@ Open option 2:
 https://nbviewer.jupyter.org/
 
 
+#### Are Customers Satisfaction Predictable? Evidence from Yelp Data (In Progress)
+
 
 #### Nonresponse in ACS Citizenship Question: Characteristics of Respondents  (March 2019)
 Validated and analyzed the differences in income, education, family size, and employment from Census Bureau’s American Community Survey
