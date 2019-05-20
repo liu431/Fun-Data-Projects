@@ -8,7 +8,7 @@ Open option 2:
 https://nbviewer.jupyter.org/
 
 
-#### Are Customers Satisfaction Predictable? Evidence from Yelp Data (In Progress)
+#### Generalizing Customers Satisfaction Prediction Problem with Yelp Data (In Progress)
 
 
 #### Nonresponse in ACS Citizenship Question: Characteristics of Respondents  (March 2019)
